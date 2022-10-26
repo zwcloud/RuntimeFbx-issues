@@ -4,7 +4,7 @@ This is the official issue tracking repo of [RuntimeFbx](http://forum.unity3d.co
 
 # Unity Asset Store
 
-* [RuntimeFbx Lite (comming soon)](https://assetstore.unity.com/packages/slug/137338&aid=1011l4ehN) 
+* [RuntimeFbx Lite](https://assetstore.unity.com/packages/slug/137338?aid=1011l4ehN) 
 
 # Community
 
